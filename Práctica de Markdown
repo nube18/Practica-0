@@ -28,19 +28,43 @@
 
 <p>Abra el archivo que contiene a Githud</p>
 
-<img src="" alt="githud" width="500" height="600">
+<img src="64e79ca5aff2fb7295bfddf9_github-que-es.jpg" alt="githud" width="500" height="600">
 
-2. Cierra el archivo.
+<p>Cierra el archivo</p>
 
 # Código
+<p>Hacemos un codigo</p>
 
-At the command prompt, type `nano`.
+En el símbolo del sistema, escriba <code>nano</code>
+
+<p>Abre el archivo</p>
+<p>Hacemos un bloque de codigo</p>
+
+<html>
+  <head>
+   <title>Parctica de Markdown</title>
+  </head>
 
 # Citas
-1. Cintas en bloque
-> El hombre 
+<p>Cintas en bloque y varios parafos</p>
+> La cinta en bloque son muy utiles
+>
+> Y asi es como son los parafos
+
+<p>Cintas en bloque<p>
+> La cinta en bloque
+>
+>> Para consiguir una cinta de bloque
+
+<p>Cintas de bloque con otros elementos</p>
+> ## Asi es el texto
+>
+> - Asi se ponen los puntos
+> *Ponemos* la **negrita**
 
 # Tablas
+<p>Asi se hace una tabla</p>
+
 Image | Login | Modo de acceso
 ----- | ----- | --------------
 Ubuntu 16.04 LTS | ubuntu | Key Pair
