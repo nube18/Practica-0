@@ -1,20 +1,32 @@
 # Comó hacer un Markdown
 ## Vamos apreder como hacerlo
-Vamos a poner ***negrita y después cursiva***.
+This text is ***really important***.
 # Vamos hacer las listas.
 1. Entramos en el progrma.
 2. Nos vamos a la práctica que tenemos creada
 3. Y nos vamos a código y pinchamos
 4. Lo último pinchamos en crear un proyecto
 # Vamos hacer Viñetas
-1. Entramos en el progrma.
-         2. Nos vamos a la práctica que tenemos creada
-         3. Y nos vamos a código y pinchamos
-4. Lo último pinchamos en crear un proyecto
+- Entramos en el progrma.
+         - Nos vamos a la práctica que tenemos creada
+         - Y nos vamos a código y pinchamos
+- Lo último pinchamos en crear un proyecto
 # Vamos a poner una imágene
+1. Open the file containing the Githud mascot.
+2. Marvel at its beauty.
 ![](64e79ca5aff2fb7295bfddf9_github-que-es.jpg)
+3. Close the file.
 # Código
-(Así se pone el código)
+At the command prompt, type `nano`.
 # Citas
-> Así se hace la cita
+* This is the first list item.
+* Here's the second list item.
+
+    > A blockquote would look great below the second list item.
+
+* And here's the third list item.
 # Tablas
+Image | Login | Modo de acceso
+----- | ----- | --------------
+Ubuntu 16.04 LTS | ubuntu | Key Pair
+Ubuntu 18.04 LTS | ubuntu | Key Pair
