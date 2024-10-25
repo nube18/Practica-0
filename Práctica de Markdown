@@ -4,27 +4,31 @@
 
 <p>Este texto es <em><strong>realmente importante</strong></em>
 
-La palabra en *cursiva*
+<p>Este texto es <i>realmente importante</i>
 
 # Vamos hacer las listas.
-
-1. Entramos en el progrma.
-2. Nos vamos a la práctica que tenemos creada
-3. Y nos vamos a código y pinchamos
-4. Lo último pinchamos en crear un proyecto
+<ul>
+   <li>Acedemos a la plataforma</li>
+   <li>Nos vamos a la práctica que tenemos creada</li>
+   <li>Y nos vamos a código y pinchamos</li>
+   <li>Lo último pinchamos en crear un proyecto</li>
+</ul>
 
 # Vamos hacer Viñetas
-
-- Entramos en el progrma.
-         - Nos vamos a la práctica que tenemos creada
-         - Y nos vamos a código y pinchamos
-- Lo último pinchamos en crear un proyecto
+<ul>
+   <li>Entramos en el programa</li>
+   <li>Nos vamos a la práctica que tenemos creada</li>
+   <ul>
+      <li>Y nos vamos a código y pinchamos</li>
+      <li>Lo útimo pinchamos en crear un proyecto</li>
+   </ul>
+</ul>
 
 # Vamos a poner una imágenes en el repositorio
 
-1. Abra el archivo que contiene a Githud.
+<p>Abra el archivo que contiene a Githud</p>
 
-![](64e79ca5aff2fb7295bfddf9_github-que-es.jpg)
+<img src="" alt="githud" width="500" height="600">
 
 2. Cierra el archivo.
 
